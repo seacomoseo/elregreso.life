@@ -1,5 +1,5 @@
 baseURL: https://elregreso.life
-Paginate: 24
+# Paginate: 24
 buildFuture: false
 theme: [sansoul]
 params:
@@ -10,10 +10,10 @@ params:
   drive_link: https://drive.google.com/file/d/1-SCiyIda9wezUrZGfaOqZ-RkFPLbttDo
   drive_mails: crupelregreso@gmail.com
 defaultContentLanguage: es
-disableLanguages: [en]
+disableLanguages: [en, fr]
 languages:
   es:
-    paginatePath: pagina
+    # paginatePath: pagina
     permalinks:
       page:
         pages: :slug

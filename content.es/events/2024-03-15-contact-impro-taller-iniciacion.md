@@ -82,6 +82,6 @@ Desde la comunidad ofertamos terapias independientes al taller y se facilitará 
 
 El desarrollo del taller lo llevará a cabo "Pablito".
 
-[@pablitosomayvive](https://www.instagram.com/pablitosomayvive "nofollow") 🕺
+[@pablitosomayvive](https://www.instagram.com/pablitosomayvive "[nofollow]") 🕺
 
 Con el sostén, la gestión y colaboración de toda la comunidad de "El Regreso" 🌀

@@ -11,7 +11,7 @@ show_blog_auto: false
 show_products_auto: false
 show_taxonomies_auto: false
 search: true
-google_translate: true
+google_translate: false
 langs_in_more: false
 langs_out: true
 callnow_active: true

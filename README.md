@@ -1,3 +1,3 @@
-# elregreso.casa
+# elregreso.life
 
-[![elregreso.casa](/assets/media/logo.png)](https://elregreso.casa/)
+[![elregreso.life](/assets/media/logo.png)](https://elregreso.life/)
