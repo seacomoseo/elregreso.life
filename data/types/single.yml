@@ -1,0 +1,22 @@
+title: Únicas
+weight: 0
+base: single
+tpl:
+  menu:
+    logo: false
+    sticky: auto
+    size: ''
+    auto: same-modals
+  callnow: custom
+  section:
+  - size: lg
+    color: dark
+    bi: fondo.jpg
+    alpha: 0.7
+    parallax: fix
+    caps: true
+    line: true
+    div: mountain
+  - color: light
+    bi: ''
+    div_x: true

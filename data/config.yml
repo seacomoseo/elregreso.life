@@ -1,36 +1,10 @@
-title: El Regreso
-description: '"El Regreso" es un espacio donde se desarrolla un proyecto de permacultura guiado por una comunidad de personitas entregadas a su crecimiento.'
-logo: logo.svg
-legal_name: ''
-legal_dni: ''
-legal_email: ''
-legal_location: ''
-country: España
-location_type:
-- Organization
-alternate_name: []
-price_range: ''
-google_analytics: G-Y5Z884CB9W
-google_site_verification: ''
-google_file_verification: google7467d923cbb3eb4c.html
-disqus: ''
-cookies_legal: false
-analytics_pagespeed: true
-process_all_images: false
-cms: true
-cms_editorial_workflow: false
-development: false
-custom_code:
-  html_head:
-    code: ''
-    lang: html
-  html_body:
-    code: ''
-    lang: html
-  css:
-    code: ''
-  js:
-    code: ''
-    lang: javascript
-social: []
-
+langs:
+- lang: es
+  title: El Regreso
+  description: '"El Regreso" es un espacio donde se desarrolla un proyecto de permacultura guiado por una comunidad de personitas entregadas a su crecimiento.'
+  google_analytics: G-Y5Z884CB9W
+  google_file_verification: google7467d923cbb3eb4c.html
+cms:
+  logo: base/icon.svg
+others:
+  show: true

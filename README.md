@@ -1,3 +1,3 @@
 # elregreso.life
 
-[![elregreso.life](/assets/media/logo.png)](https://elregreso.life/)
+[![elregreso.life](/assets/media/base/logo.svg)](https://elregreso.life/)

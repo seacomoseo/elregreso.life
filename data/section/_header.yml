@@ -1,0 +1,11 @@
+name: Header
+image: base/logo.svg
+hanchor: El Regreso - Comunidad Rural Perdurable
+md: |
+  Espacio donde se desarrolla un proyecto de permacultura guiado por una comunidad de personitas entregadas a su crecimiento
+
+  [[:plus: Más]](#more)
+color: dark
+full: true
+size: xs
+line: false

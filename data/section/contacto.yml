@@ -1,0 +1,32 @@
+name: Contacto
+title: Contacto
+subtitle: ¿En qué podemos ayudarte?
+size: sm
+div: mountain
+menu_button: cta
+contact:
+- type: whatsapp
+  label: 644 424 430
+- type: custom
+  link: https://chat.whatsapp.com/Lcd6VDvOGop67qtehfFXdG
+  label: Comunidad El Regreso
+  icon: whatsapp
+  lock: true
+  swap: true
+  button: whatsapp
+- type: custom
+  link: https://t.me/+34644424430
+  label: 644 424 430
+  icon: telegram
+  lock: true
+- type: custom
+  link: https://t.me/+azUt7jKljoIwOWNi
+  label: Comunidad El Regreso
+  icon: telegram
+  lock: true
+  swap: true
+- type: phone
+  label: 644 424 430
+  button: main
+- type: mail
+  label: crupelregreso@gmail.com

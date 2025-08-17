@@ -1,0 +1,112 @@
+name: El Proyecto
+title: El Proyecto
+subtitle: Promoviendo una nueva forma de vida sostenible
+md: |
+  Somos una asociación embarcada en un proyecto de autosuficiencia y sostenibilidad, conservación de la biodiversidad, defensa de la ruralidad y el equilibrio perdurable como alternativa al modelo macrourbano, desarrollista e individualista dominante. Y, en resumen, intentamos promover la Comunidad Rural Perdurable como institución socioeconómica, laboral, cultural y educativa que garantiza las necesidades básicas de sus miembros.
+
+  Parte esencial de nuestra filosofía es interactuar, en todos los ámbitos posibles, con las comunidades locales, logrando así un enriquecimiento mutuo en el intercambio de experiencias vitales, y especialmente intercambiar experiencias y crear lazos de unión con otras comunidades rurales semejantes al tipo de comunidad promovido por nuestra asociación.
+align: center
+box:
+  color: white
+  line: true
+  ratio: 3/2
+  inset: true
+  cols: 4
+boxes:
+- title: El hábitat
+  subtitle: Conviviendo en armonía con la naturaleza
+  link: '#el-habitat'
+  image: fondo.jpg
+  md: Un entorno natural en Moratalla, Murcia, con bosques de pinos y encinas, diversidad de flora y fauna, ideal para una vida sostenible y en armonía con la naturaleza
+- title: Los principios
+  subtitle: 'Permacultura: Nuestro camino hacia la sostenibilidad'
+  link: '#los-principios'
+  image: el-proyecto-los-principios.jpg
+  md: Agricultura orgánica, bioconstrucción, economía local, tecnologías alternativas, energías renovables, agua consciente, gestión de residuos...
+- title: CRUPER
+  subtitle: Comunidad RUral PERdurable <br> El Regreso
+  link: '#cruper'
+  image: el-proyecto-cruper.jpg
+  md: Un proyecto dentro de la asociación Volver a la Tierra, compartiendo objetivos y principios para promover la vida sostenible en la comunidad rural
+- title: Marabella
+  subtitle: Una casa con encanto y alma, base de la comunidad
+  link: '#casa-marabella'
+  image: casa-marabella-ventana-del-salon.jpg
+  md: Sede de las reuniones, equipada para actividades compartidas, autosuficiente y sostenible, impulsada por una economía consciente y solidaria
+modal:
+  size: xs
+  color: white
+  icon_type: top
+  ratio: 3/2
+  inset: true
+  caps: true
+  line: true
+modals:
+- title: El Hábitat
+  subtitle: Conviviendo en armonía con la naturaleza
+  image: fondo.jpg
+  md: |
+    La finca donde se desarrolla el proyecto se encuentra en el término municipal de Moratalla (Murcia), en un valle a unos 1000 metros de altitud situado entre dos arroyos que llevan agua todo el año (formándose pozas donde bañarse a lo largo de éstos).
+
+    Esta se encuentra en plena sierra, en un paraje que nuestros antepasados eligieron como su hogar (hay pinturas rupestres en las proximidades), y en el que generaciones anteriores a la nuestra hicieron también de este su hábitat, en el cual vivieron en grupos dispersos de manera humilde, en paz y armonía con la naturaleza.
+
+    Los bosques circundantes son principalmente de pinos, encinas y sabinas, además de choperas a orillas de los arroyos y zonas más húmedas.
+
+    Existe una amplia diversidad en cuanto a flora se refiere, pero algunos de los arboles y arbustos de gran interés por su uso alimenticio son el nogal (árbol representativo de la zona), la zarzamora y el escaramujo entre otros.
+
+    También se puede encontrar una gran variedad de plantas silvestres con usos medicinales.
+
+    En cuanto a fauna, decir que en un paseo se pueden ver fácilmente ejemplares de cabras montesas, y en menor abundancia jabalíes, que se pueden encontrar en lugares más recónditos.
+
+    En resumen, nos encontramos en un entorno natural muy fértil con mucha biodiversidad, en el que hace no muchos años vivía la gente de manera auto-suficiente, en grupos dispersos a lo largo de la sierra en diversos cortijos que a día de hoy aun podemos encontrar en mejor o peor estado.
+
+    Es un lugar perfecto al que regresar para llevar una vida de calidad, una vida que le de un respiro al planeta.
+- title: Los Principios
+  subtitle: 'Permacultura: Nuestro camino hacia la sostenibilidad'
+  image: el-proyecto-los-principios.jpg
+  md: |
+    A grandes rasgos se podría decir que la intención es ir en dirección a la permacultura.
+
+    Estos son nuestros principios básicos:
+
+    1. La agricultura orgánica, excluyendo en cualquier caso el empleo de productos no admitidos en agricultura ecológica y reduciendo o excluyendo el uso de maquinaria contaminante agrícola.
+    1. La bioconstrucción y arquitectura sana y bioclimática.
+    1. La economía local, cooperativa, solidaria y ambientalmente perdurable.
+    1. Las tecnologías blandas alternativas, tanto tradicionales como modernas.
+    1. Las energías renovables, libres y descentralizadas.
+    1. La consideración del agua como “ser vivo”, usando la estrictamente necesaria, con la mínima contaminación y depurándola biológicamente para su reutilización.
+    1. La reducción, reutilización y reciclaje de los residuos sólidos.
+    1. La movilidad sostenible.
+    1. La educación libre.
+    1. Las dinámicas de crecimiento personal y grupal.
+- title: CRUPER
+  subtitle: Comunidad RUral PERdurable El Regreso
+  image: el-proyecto-cruper.jpg
+  md: |
+    Para no extendernos mucho, pues es una larga historia, decir que la C.RU.PER (Comunidad rural perdurable) El Regreso forma parte de la asociación Volver a la Tierra, con la que comparte fines.
+
+    A groso modo, se podría decir que la primera es un proyecto dentro de la segunda con unas lineas de actuación diferentes mas dentro de los mismos principios, compartiendo pues objetivos.
+
+    Estos documentos os servirán para conocer mejor el funcionamiento:
+
+    - :file-pdf: [Estatutos C.RU.PER El Regreso](estatutos-cruper.pdf "[nofollow]")
+    - :file-pdf: [Protocolo Entrada y salida de miembros C.RU.PER El Regreso](protocolo-entrada-y-salida-de-miembros-cruper.pdf)
+- title: Casa Marabella
+  subtitle: Una casa con encanto y alma, base de la comunidad
+  image: casa-marabella-ventana-del-salon.jpg
+  md: |
+    Marabella es el nombre que le pusieron a la casa los fundadores de la asociación, y como bien sugiere este, es una maravilla, no solo por el encanto que tiene sino por el alma que le dieron en su construcción.
+
+    Tiene muchos detalles y mucho amor puesto en ella.
+
+    Un rasgo importante es la finalidad para la cual se creó, ya que esta está destinada a tener un uso comunitario.
+
+    Es la sede donde se llevan a cabo las reuniones de ambas asociaciones (véase, El Regreso y Volver a la Tierra), es el centro neurálgico de la comunidad puesto que su equipamiento es de uso compartido, ya sea la cocina, la biblioteca, el lavadero, el almacén y la sala de actividades o ludoteca.
+
+    Es lo suficientemente espaciosa para organizar un gran número de actividades en el que se cuente con bastantes personas.
+
+    Además, una característica recalcable es que dispone de dos baños con váter seco, algo imprescindible para seguir los principios de la asociación, y es que aquí procuramos gestionar nuestros desechos con sumo cuidado.
+
+    Esta es también la vivienda base desde la cual se proyecta ir agrandado la comunidad.
+
+    Se pretende que sea lo más autosuficiente posible; el agua llega a la casa por dos vías, una es la recolectada de lluvia y la otra es la que viene por manguera desde una arqueta que recoge el agua que brota de un manantial, y la electricidad la generan paneles solares.
