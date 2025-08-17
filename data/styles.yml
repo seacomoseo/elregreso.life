@@ -32,7 +32,7 @@ fonts:
     italic: false
     line_height: 1.25
     size: 1
-    top: .33
+    top: 0
   blockquote_cursive: false
 colors:
   main:
