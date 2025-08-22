@@ -1,6 +1,11 @@
 name: Calendario
+view: ''
 title: Calendario
 subtitle: Momentos para compartir
+sort: ''
+box:
+  view: ''
+  sort: ''
 boxes:
 - list:
     type: event
@@ -9,9 +14,27 @@ boxes:
     cols: 4
     slider: true
     arrows: hide
+    view:
+    - list
+    sort: ''
+  view: ''
+  sort: ''
 - boxes:
   - link: https://chat.whatsapp.com/GCbGGpKTK5pCU1oSkTSpTx
     label: Difusión de Actividades
     pin: whatsapp
     button: whatsapp
     lock: true
+    view: ''
+    sort: ''
+    box:
+      view: ''
+      sort: ''
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
+modal:
+  view: ''
+  sort: ''
