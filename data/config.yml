@@ -8,3 +8,8 @@ cms:
   logo: base/icon.svg
 others:
   show: true
+defaults:
+- name: index
+  value: 'false'
+  type: boolean
+  path: [ '/event', '/event/*']
