@@ -1,11 +1,11 @@
 ---
-title: Inicio
-seo: 'El Regreso: Comunidad Rural Perdurable'
 slug: inicio
-description: llll➤ "El Regreso" es un espacio donde se desarrolla un proyecto de permacultura ✅ guiado por una comunidad de personitas entregadas a su crecimiento.
+title: Inicio
 image: fondo.jpg
 draft: false
 noindex: false
+seo: 'El Regreso: Comunidad Rural Perdurable'
+description: llll➤ "El Regreso" es un espacio donde se desarrolla un proyecto de permacultura ✅ guiado por una comunidad de seres entregados a su crecimiento.
 tpl:
   sections:
   - file: _header
@@ -49,4 +49,3 @@ org:
   prices: €€
   services: []
 ---
-
