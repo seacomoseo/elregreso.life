@@ -13,7 +13,7 @@ boxes:
   box:
     cols: 4
     slider: true
-    arrows: float
+    arrows: ''
     view:
     - list
     sort: ''
