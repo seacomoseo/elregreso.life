@@ -4,20 +4,24 @@ title: Calendario
 subtitle: Momentos para compartir
 sort: ''
 box:
-  view: ''
+  view:
+  - group
   sort: ''
+  slider: true
+  cols: 4
+  cols_vs: 2
 boxes:
 - list:
     type: event
-    max: 12
+    max: '12'
   box:
     cols: 4
     slider: true
     arrows: hide
-    view:
-    - list
+    view: ''
     sort: ''
-  view: ''
+  view:
+  - list
   sort: ''
 - boxes:
   - link: https://chat.whatsapp.com/GCbGGpKTK5pCU1oSkTSpTx
