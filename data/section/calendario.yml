@@ -20,6 +20,15 @@ boxes:
   view:
   - list
   sort: ''
+- view:
+  - list
+  sort: ''
+  box:
+    view: ''
+    sort: ''
+  list:
+    type: event
+    max: '12'
 - boxes:
   - link: https://chat.whatsapp.com/GCbGGpKTK5pCU1oSkTSpTx
     label: Difusión de Actividades
