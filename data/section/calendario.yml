@@ -5,7 +5,9 @@ subtitle: Momentos para compartir
 sort: ''
 box:
   sort: ''
-  view: ''
+  view:
+  - group
+  slider: true
 boxes:
 - list:
     type: event
@@ -35,14 +37,11 @@ boxes:
   box:
     view: ''
     sort: ''
-- view:
-  - list
+- view: ''
   sort: ''
   box:
     view: ''
     sort: ''
-    arrows: float
-    cols: 4
   list:
     type: event
     max: '12'
