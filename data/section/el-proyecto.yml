@@ -1,38 +1,62 @@
 name: El Proyecto
+view: ''
 title: El Proyecto
 subtitle: Promoviendo una nueva forma de vida sostenible
 md: |
-  Somos una asociación embarcada en un proyecto de autosuficiencia y sostenibilidad, conservación de la biodiversidad, defensa de la ruralidad y el equilibrio perdurable como alternativa al modelo macrourbano, desarrollista e individualista dominante. Y, en resumen, intentamos promover la Comunidad Rural Perdurable como institución socioeconómica, laboral, cultural y educativa que garantiza las necesidades básicas de sus miembros.
+  Somos una comunidad embarcada en un proyecto de autosuficiencia y sostenibilidad, conservación de la biodiversidad, defensa de la ruralidad y el equilibrio perdurable como alternativa al modelo macrourbano, desarrollista e individualista dominante. Y, en resumen, intentamos promover la Comunidad Natural como institución socioeconómica, laboral, cultural y educativa que garantiza las necesidades básicas de sus miembros.
 
-  Parte esencial de nuestra filosofía es interactuar, en todos los ámbitos posibles, con las comunidades locales, logrando así un enriquecimiento mutuo en el intercambio de experiencias vitales, y especialmente intercambiar experiencias y crear lazos de unión con otras comunidades rurales semejantes al tipo de comunidad promovido por nuestra asociación.
+  Parte esencial de nuestra filosofía es interactuar, en todos los ámbitos posibles, con los colectivos locales, logrando así un enriquecimiento mutuo en el intercambio de experiencias vitales, y especialmente intercambiar experiencias y crear lazos de unión con otras comunidades semejantes.
 align: center
+sort: ''
 box:
   color: white
   line: true
   ratio: 3/2
   inset: true
   cols: 4
+  view: ''
+  sort: ''
 boxes:
 - title: El hábitat
   subtitle: Conviviendo en armonía con la naturaleza
   link: '#el-habitat'
   image: fondo.jpg
   md: Un entorno natural en Moratalla, Murcia, con bosques de pinos y encinas, diversidad de flora y fauna, ideal para una vida sostenible y en armonía con la naturaleza
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
 - title: Los principios
   subtitle: 'Permacultura: Nuestro camino hacia la sostenibilidad'
   link: '#los-principios'
   image: el-proyecto-los-principios.jpg
   md: Agricultura orgánica, bioconstrucción, economía local, tecnologías alternativas, energías renovables, agua consciente, gestión de residuos...
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
 - title: CRUPER
   subtitle: Comunidad RUral PERdurable <br> El Regreso
   link: '#cruper'
   image: el-proyecto-cruper.jpg
   md: Un proyecto dentro de la asociación Volver a la Tierra, compartiendo objetivos y principios para promover la vida sostenible en la comunidad rural
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
 - title: Marabella
   subtitle: Una casa con encanto y alma, base de la comunidad
   link: '#casa-marabella'
   image: casa-marabella-ventana-del-salon.jpg
   md: Sede de las reuniones, equipada para actividades compartidas, autosuficiente y sostenible, impulsada por una economía consciente y solidaria
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
 modal:
   size: xs
   color: white
@@ -41,6 +65,8 @@ modal:
   inset: true
   caps: true
   line: true
+  view: ''
+  sort: ''
 modals:
 - title: El Hábitat
   subtitle: Conviviendo en armonía con la naturaleza
@@ -61,6 +87,11 @@ modals:
     En resumen, nos encontramos en un entorno natural muy fértil con mucha biodiversidad, en el que hace no muchos años vivía la gente de manera auto-suficiente, en grupos dispersos a lo largo de la sierra en diversos cortijos que a día de hoy aun podemos encontrar en mejor o peor estado.
 
     Es un lugar perfecto al que regresar para llevar una vida de calidad, una vida que le de un respiro al planeta.
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
 - title: Los Principios
   subtitle: 'Permacultura: Nuestro camino hacia la sostenibilidad'
   image: el-proyecto-los-principios.jpg
@@ -79,6 +110,11 @@ modals:
     1. La movilidad sostenible.
     1. La educación libre.
     1. Las dinámicas de crecimiento personal y grupal.
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
 - title: CRUPER
   subtitle: Comunidad RUral PERdurable El Regreso
   image: el-proyecto-cruper.jpg
@@ -91,22 +127,28 @@ modals:
 
     - :file-pdf: [Estatutos C.RU.PER El Regreso](estatutos-cruper.pdf "[nofollow]")
     - :file-pdf: [Protocolo Entrada y salida de miembros C.RU.PER El Regreso](protocolo-entrada-y-salida-de-miembros-cruper.pdf)
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
 - title: Casa Marabella
   subtitle: Una casa con encanto y alma, base de la comunidad
   image: casa-marabella-ventana-del-salon.jpg
   md: |
-    Marabella es el nombre que le pusieron a la casa los fundadores de la asociación, y como bien sugiere este, es una maravilla, no solo por el encanto que tiene sino por el alma que le dieron en su construcción.
+    Marabella es el nombre que le pusieron a la casa los promotores, y como bien sugiere este, es una maravilla, no solo por el encanto que tiene sino por el alma que le dieron en su construcción.
 
     Tiene muchos detalles y mucho amor puesto en ella.
 
     Un rasgo importante es la finalidad para la cual se creó, ya que esta está destinada a tener un uso comunitario.
 
-    Es la sede donde se llevan a cabo las reuniones de ambas asociaciones (véase, El Regreso y Volver a la Tierra), es el centro neurálgico de la comunidad puesto que su equipamiento es de uso compartido, ya sea la cocina, la biblioteca, el lavadero, el almacén y la sala de actividades o ludoteca.
+    Es el centro neurálgico de la comunidad puesto que su equipamiento es de uso compartido, ya sea la cocina, la biblioteca, el lavadero, el almacén y la sala de actividades o ludoteca.
 
-    Es lo suficientemente espaciosa para organizar un gran número de actividades en el que se cuente con bastantes personas.
-
-    Además, una característica recalcable es que dispone de dos baños con váter seco, algo imprescindible para seguir los principios de la asociación, y es que aquí procuramos gestionar nuestros desechos con sumo cuidado.
-
-    Esta es también la vivienda base desde la cual se proyecta ir agrandado la comunidad.
+    Además, una característica recalcable es que dispone de dos baños con váter seco, algo imprescindible para seguir los principios de la comunidad, y es que aquí procuramos gestionar nuestros desechos con sumo cuidado.
 
     Se pretende que sea lo más autosuficiente posible; el agua llega a la casa por dos vías, una es la recolectada de lluvia y la otra es la que viene por manguera desde una arqueta que recoge el agua que brota de un manantial, y la electricidad la generan paneles solares.
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
