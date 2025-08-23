@@ -14,8 +14,7 @@ boxes:
     cols: 4
     slider: true
     arrows: ''
-    view:
-    - list
+    view: ''
     sort: ''
   view:
   - list
@@ -32,6 +31,7 @@ boxes:
   list:
     type: event
     max: '12'
+    date: 2024-09-01 12:59:12
 - boxes:
   - link: https://chat.whatsapp.com/GCbGGpKTK5pCU1oSkTSpTx
     label: Difusión de Actividades
