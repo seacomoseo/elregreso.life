@@ -5,19 +5,18 @@ subtitle: Momentos para compartir
 sort: ''
 box:
   sort: ''
+  view: ''
 boxes:
 - list:
     type: event
     max: '12'
   box:
     cols: 4
-    slider: true
-    arrows: float
-    view:
-    - group
+    slider: false
+    view: ''
     sort: ''
     cols_vs: 2
-    pips: line
+    pips: dot
   view:
   - list
   sort: ''
@@ -32,11 +31,17 @@ boxes:
     box:
       view: ''
       sort: ''
-  view: ''
+  view:
+  - button
   sort: ''
   box:
     view: ''
     sort: ''
+  pin: whatsapp
+  link: https://chat.whatsapp.com/GCbGGpKTK5pCU1oSkTSpTx
+  label: Difusión de Actividades
+  button: whatsapp
+  lock: true
 modal:
   view: ''
   sort: ''
