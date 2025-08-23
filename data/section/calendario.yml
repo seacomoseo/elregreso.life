@@ -4,10 +4,7 @@ title: Calendario
 subtitle: Momentos para compartir
 sort: ''
 box:
-  view:
-  - list
   sort: ''
-  slider: true
 boxes:
 - list:
     type: event
@@ -16,7 +13,8 @@ boxes:
     cols: 4
     slider: true
     arrows: hide
-    view: ''
+    view:
+    - list
     sort: ''
   view:
   - list
