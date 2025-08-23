@@ -41,7 +41,7 @@ boxes:
   box:
     view: ''
     sort: ''
-    arrows: bottom
+    arrows: float
     cols: 4
   list:
     type: event
