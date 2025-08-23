@@ -7,18 +7,11 @@ box:
   sort: ''
   view: ''
 boxes:
-- list:
-    type: event
-    max: '12'
+- list: {}
   box:
-    cols: 4
-    slider: false
     view: ''
     sort: ''
-    cols_vs: 2
-    pips: dot
-  view:
-  - list
+  view: ''
   sort: ''
 - boxes:
   - link: https://chat.whatsapp.com/GCbGGpKTK5pCU1oSkTSpTx
@@ -31,17 +24,18 @@ boxes:
     box:
       view: ''
       sort: ''
-  view:
-  - button
   sort: ''
   box:
     view: ''
     sort: ''
-  pin: whatsapp
-  link: https://chat.whatsapp.com/GCbGGpKTK5pCU1oSkTSpTx
-  label: Difusión de Actividades
-  button: whatsapp
-  lock: true
+- view:
+  - list
+  sort: ''
+  box:
+    view: ''
+    sort: ''
+  list:
+    type: event
 modal:
   view: ''
   sort: ''
