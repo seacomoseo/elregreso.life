@@ -24,8 +24,11 @@ boxes:
   - list
   sort: ''
   box:
-    view: ''
+    view:
+    - group
     sort: ''
+    arrows: bottom
+    cols: 4
   list:
     type: event
     max: '12'
