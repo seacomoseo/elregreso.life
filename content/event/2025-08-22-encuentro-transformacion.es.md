@@ -3,7 +3,7 @@ slug: encuentro-transformacion
 title: Encuentro Transformación
 summary: ''
 image: /encuentro-tribal-cartel.jpg
-date: 2025-07-10 11:04:13
+date: 2025-08-23 11:04:13
 cancelled: false
 ---
 Atrévete a adentrarte en un viaje de autoconocimiento y transformación.
