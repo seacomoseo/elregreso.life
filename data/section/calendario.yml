@@ -11,11 +11,10 @@ boxes:
   - list
   sort: ''
   box:
-    view:
-    - group
+    view: ''
     sort: ''
     cols: 4
-    cols_vs: 0
+    cols_vs: 2
     slider: true
     arrows: hide
   list:
