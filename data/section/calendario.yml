@@ -9,10 +9,14 @@ box:
 boxes:
 - list:
     type: page
-    max: '4'
+    max: '2'
   box:
-    view: ''
+    view:
+    - group
     sort: ''
+    cols: 4
+    cols_vs: 2
+    slider: true
   view: ''
   sort: ''
 - boxes:
