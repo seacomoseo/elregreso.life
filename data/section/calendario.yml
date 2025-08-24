@@ -7,7 +7,9 @@ box:
   sort: ''
   view: ''
 boxes:
-- list: {}
+- list:
+    type: page
+    max: '4'
   box:
     view: ''
     sort: ''
