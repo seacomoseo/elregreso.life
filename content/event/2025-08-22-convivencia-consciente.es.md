@@ -5,8 +5,9 @@ image: /convivencia-consciente-conectarte.png
 date: 2025-05-23 11:41:49
 end: 2025-05-25 11:41:49
 cancelled: false
+toc: true
 ---
-🌱🫂 *CONVIVENCIA CONSCIENTE* 🫂🌱
+🌱🫂 _CONVIVENCIA CONSCIENTE_ 🫂🌱
 
 Lanzamos la propuesta de encontrarnos con la finalidad de compartir un fin de semana de convivencia en el que pondremos toda nuestra intención en generar consciencia mediante el uso de diversas herramientas que faciliten el estado meditativo, ayudándonos así a estar presentes.
 
@@ -38,7 +39,7 @@ Un proyecto de permacultura en plena sierra, un valle rodeado por dos arroyos y 
 
 ## 🌍 LUGAR
 
-"El Regreso" 
+"El Regreso"
 
 ## 📅 FECHA
 
