@@ -18,7 +18,6 @@ boxes:
     slider: true
     arrows: hide
     sides: true
-    group_radius: true
   list:
     type: event
     max: '12'
