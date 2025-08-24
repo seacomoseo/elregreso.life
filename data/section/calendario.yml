@@ -7,16 +7,18 @@ box:
   sort: ''
   view: ''
 boxes:
-- view:
-  - list
+- view: ''
   sort: ''
   box:
-    view: ''
+    view:
+    - group
     sort: ''
     cols: 4
     cols_vs: 2
     slider: true
     arrows: hide
+    sides: true
+    group_radius: true
   list:
     type: event
     max: '12'
