@@ -1,7 +1,7 @@
 ---
-slug: jornadas-voluntariado1
-title: Jornadas Voluntariado
-image: /jornadas-de-voluntariado.png
+slug: jornadas-voluntariado
+title: Jornadas de Voluntariado
+image: 2024-10-28-jornadas-voluntariado.png
 date: 2024-10-28 10:24:53
 end: 2024-11-03 17:24:53
 toc: true

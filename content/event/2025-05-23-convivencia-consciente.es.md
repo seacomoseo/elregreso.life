@@ -1,7 +1,7 @@
 ---
 slug: convivencia-consciente
 title: Convivencia Consciente
-image: /convivencia-consciente-conectarte.png
+image: 2025-05-23-convivencia-consciente.png
 date: 2025-05-23 11:41:49
 end: 2025-05-25 11:41:49
 cancelled: false

@@ -1,5 +1,5 @@
 baseURL: https://elregreso.life
-buildFuture: false
+buildFuture: true
 theme: [sansoul]
 params:
   domain: elregreso.life

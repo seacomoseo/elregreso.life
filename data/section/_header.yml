@@ -1,5 +1,4 @@
 name: Header
-view: ''
 hanchor: El Regreso - Comunidad Natural
 line: false
 md: |
@@ -10,10 +9,3 @@ image: base/logo.svg
 color: dark
 size: xs
 full: true
-sort: ''
-box:
-  view: ''
-  sort: ''
-modal:
-  view: ''
-  sort: ''

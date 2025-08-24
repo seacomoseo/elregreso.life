@@ -9,14 +9,14 @@ icons:
   right:
 fonts:
   base:
-    google: true
+    google: false
     family: Montserrat
     weight: 400
     bold: 0
     italic: false
     line_height: 1.25
   cursive:
-    google: true
+    google: false
     family: Boogaloo
     weight: 400
     bold: 0
@@ -25,7 +25,7 @@ fonts:
     size: 1
     top: 0
   title:
-    google: true
+    google: false
     family: Daniel
     weight: 900
     bold: 0
