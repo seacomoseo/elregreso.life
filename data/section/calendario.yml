@@ -8,15 +8,12 @@ box:
   view: ''
 boxes:
 - list:
-    type: page
+    type: related
     max: '2'
   box:
-    view:
-    - group
     sort: ''
-    cols: 4
-    cols_vs: 2
     slider: true
+    view: ''
   view: ''
   sort: ''
 - boxes:
