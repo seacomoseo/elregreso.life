@@ -7,7 +7,7 @@ end: 2025-05-25 11:41:49
 cancelled: false
 toc: true
 ---
-🌱🫂 _CONVIVENCIA CONSCIENTE_ 🫂🌱
+## 🌱🫂  Convivencia Consciente 🫂🌱
 
 Lanzamos la propuesta de encontrarnos con la finalidad de compartir un fin de semana de convivencia en el que pondremos toda nuestra intención en generar consciencia mediante el uso de diversas herramientas que faciliten el estado meditativo, ayudándonos así a estar presentes.
 
@@ -16,6 +16,10 @@ Esta es una convivencia auto gestionada en la que desde El Regreso facilitaremos
 Habrá momentos de silencio y momentos para reír y cantar. Además, habrá momentos para compartir nuestras practicas como taichi, yoga o lo que cada cual sepa y quiera ofrecer; dispondréis también de las comodidades de la casa, y el cobijo del bosque circundante para inducir la relajación necesaria para alcanzar un estado meditativo.
 
 Si te parece buena idea, foméntala con tu asistencia y, de paso, nos visitas 🤗
+
+
+
+
 
 ✨✨✨✨✨
 
