@@ -10,14 +10,12 @@ boxes:
 - view: ''
   sort: ''
   box:
-    view:
-    - group
+    view: ''
     sort: ''
     cols: 4
     cols_vs: 2
     slider: true
     arrows: hide
-    sides: true
   list:
     type: event
     max: '12'
