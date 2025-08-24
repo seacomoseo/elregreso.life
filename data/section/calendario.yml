@@ -7,20 +7,20 @@ box:
   sort: ''
   view: ''
 boxes:
-- list: {}
-  box:
-    sort: ''
-    slider: true
-    view: ''
-  view:
-  - gallery
+- view:
+  - list
   sort: ''
-  images:
-  - /convivencia-consciente-conectarte.png
-  - /encuentro-tribal-cartel.jpg
-  gallery:
-    type: cols
+  box:
+    view:
+    - group
+    sort: ''
     cols: 4
+    cols_vs: 0
+    slider: true
+    arrows: hide
+  list:
+    type: event
+    max: '12'
 - boxes:
   - link: https://chat.whatsapp.com/GCbGGpKTK5pCU1oSkTSpTx
     label: Difusión de Actividades
@@ -37,14 +37,6 @@ boxes:
     view: ''
     sort: ''
   view: ''
-- view:
-  - list
-  sort: ''
-  box:
-    view: ''
-    sort: ''
-  list:
-    type: event
 modal:
   view: ''
   sort: ''
