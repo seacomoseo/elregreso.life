@@ -14,8 +14,6 @@ gallery:
   ratio: 1/1
 images:
 - fondo.jpg
-- el-habitat-atardecer.jpg
-- el-habitat-atardecer-2.jpg
 - la-comunidad.jpg
 - 2023-06-14-14-08-16.jpg
 - /casa.jpg
@@ -29,15 +27,11 @@ images:
 - /salon-1.jpg
 - /salon-2.jpg
 - /ventana-2.jpg
-- /salon-1.jpg
-- /circulo.jpg
 - /clase-taichi.jpg
 - /cocina.jpg
-- /espiral-1.jpg
 - /fuego-1.jpg
 - /fuego-2.jpg
 - /fuente-almeces-2.jpg
-- /fuente-almeces.jpg
 modal:
   view: ''
   sort: ''
