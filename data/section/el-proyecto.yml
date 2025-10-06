@@ -70,7 +70,7 @@ modal:
 modals:
 - title: El Hábitat
   subtitle: Conviviendo en armonía con la naturaleza
-  image: fondo.jpg
+  image: /paisaje-4.jpg
   md: |
     La finca donde se desarrolla el proyecto se encuentra en el término municipal de Moratalla (Murcia), en un valle a unos 1000 metros de altitud situado entre dos arroyos que llevan agua todo el año (formándose pozas donde bañarse a lo largo de éstos).
 
@@ -94,7 +94,7 @@ modals:
     sort: ''
 - title: Los Principios
   subtitle: 'Permacultura: Nuestro camino hacia la sostenibilidad'
-  image: el-proyecto-los-principios.jpg
+  image: /espiral.jpg
   md: |
     A grandes rasgos se podría decir que la intención es ir en dirección a la permacultura.
 
@@ -138,7 +138,7 @@ modals:
     sort: ''
 - title: Casa Marabella
   subtitle: Una casa con encanto y alma, base de la comunidad
-  image: casa-marabella-ventana-del-salon.jpg
+  image: /casa.jpg
   md: |
     Marabella es el nombre que le pusieron a la casa los promotores, y como bien sugiere este, es una maravilla, no solo por el encanto que tiene sino por el alma que le dieron en su construcción.
 
