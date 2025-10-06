@@ -13,25 +13,23 @@ gallery:
   color: similar
   ratio: 1/1
 images:
-- fondo.jpg
-- la-comunidad.jpg
-- 2023-06-14-14-08-16.jpg
 - /casa.jpg
 - /circulo.jpg
-- /clase-taichi.jpg
-- /cocina.jpg
 - /espiral-1.jpg
 - /espiral.jpg
 - /paisaje-4.jpg
 - /nogal.jpg
-- /salon-1.jpg
-- /salon-2.jpg
 - /ventana-2.jpg
-- /clase-taichi.jpg
-- /cocina.jpg
 - /fuego-1.jpg
 - /fuego-2.jpg
+- fondo.jpg
 - /fuente-almeces-2.jpg
+- /cocina.jpg
+- /salon-1.jpg
+- /salon-2.jpg
+- /clase-taichi.jpg
+- 2023-06-14-14-08-16.jpg
+- la-comunidad.jpg
 modal:
   view: ''
   sort: ''
