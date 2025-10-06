@@ -20,7 +20,7 @@ boxes:
 - title: El hábitat
   subtitle: Conviviendo en armonía con la naturaleza
   link: '#el-habitat'
-  image: fondo.jpg
+  image: /paisaje-4.jpg
   md: Un entorno natural en Moratalla, Murcia, con bosques de pinos y encinas, diversidad de flora y fauna, ideal para una vida sostenible y en armonía con la naturaleza
   view: ''
   sort: ''
@@ -30,7 +30,7 @@ boxes:
 - title: Los principios
   subtitle: 'Permacultura: Nuestro camino hacia la sostenibilidad'
   link: '#los-principios'
-  image: el-proyecto-los-principios.jpg
+  image: /espiral.jpg
   md: Agricultura orgánica, bioconstrucción, economía local, tecnologías alternativas, energías renovables, agua consciente, gestión de residuos...
   view: ''
   sort: ''
@@ -50,7 +50,7 @@ boxes:
 - title: Marabella
   subtitle: Una casa con encanto y alma, base de la comunidad
   link: '#casa-marabella'
-  image: casa-marabella-ventana-del-salon.jpg
+  image: /casa.jpg
   md: Sede de las reuniones, equipada para actividades compartidas, autosuficiente y sostenible, impulsada por una economía consciente y solidaria
   view: ''
   sort: ''
