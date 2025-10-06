@@ -1,8 +1,13 @@
 name: Fotos
+view: ''
 title: Fotos
 subtitle: ¿Cómo es nuestro entorno?
 ph: true
 size: fluid
+sort: ''
+box:
+  view: ''
+  sort: ''
 gallery:
   cols: 6
   color: similar
@@ -17,7 +22,6 @@ images:
 - casa-marabella-fachada.jpg
 - casa-marabella-de-noche.jpg
 - fondo.jpg
-- alberca.jpg
 - el-habitat-arbol-retorcido.jpg
 - el-habitat-cerca-del-arroyo.jpg
 - el-habitat-junto-a-la-balsa-del-arroyo.jpg
@@ -32,3 +36,6 @@ images:
 - 2023-06-14-14-08-16.jpg
 - romeo-y-yang.jpg
 - romeo.jpg
+modal:
+  view: ''
+  sort: ''
