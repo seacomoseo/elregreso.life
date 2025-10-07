@@ -1,11 +1,20 @@
 name: La Comunidad
+view: ''
 title: La Comunidad
 subtitle: La vuelta a la tierra no es un retiro, más bien "El Regreso"
+sort: ''
 box:
   cols: 2
+  view: ''
+  sort: ''
 boxes:
-- bi: la-comunidad.jpg
+- bi: /voluntariado-2.jpg
   parallax: soft
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
 - md: |
     Esta comunidad ha nacido desde una visión común de crecimiento interior y con un fuerte deseo de regresar a la vida rural para generar un entorno sostenible y saludable.
 
@@ -20,3 +29,11 @@ boxes:
     Las puertas están y estarán abiertas. Si así lo sientes, ven y sé participe en esta nueva gestación, una con la que la madre tierra se sienta en paz.
   align: left
   align_y: center
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
+modal:
+  view: ''
+  sort: ''
