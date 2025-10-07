@@ -1,7 +1,7 @@
 ---
 slug: inicio
 title: Inicio
-image: /paisaje-4.jpg
+image: /caravana-2.jpg
 draft: false
 noindex: false
 seo: 'El Regreso: Comunidad Natural'
