@@ -29,7 +29,6 @@ images:
 - /salon-2.jpg
 - /clase-taichi.jpg
 - 2023-06-14-14-08-16.jpg
-- la-comunidad.jpg
 - /alberca-2.jpg
 - /almendro.jpg
 - /bano.jpg
@@ -37,6 +36,8 @@ images:
 - /biblioteca.jpg
 - /camino.jpg
 - /caravana-2.jpg
+- /voluntariado-1.jpg
+- /voluntariado-2.jpg
 modal:
   view: ''
   sort: ''
