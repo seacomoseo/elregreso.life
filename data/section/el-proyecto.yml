@@ -118,18 +118,27 @@ modals:
 - title: El Regreso
   subtitle: Comunidad Natural El Regreso
   image: /circulo.jpg
-  md: |
+  md: |+
     Para no extendernos mucho, pues es una larga historia, decir que la Comunidad Natural El Regreso nace de la C.RU.PER (Comunidad rural perdurable) El Regreso la cual forma parte de la asociación Volver a la Tierra, con la que comparte fines.
 
     Estos documentos os servirán para conocer mejor el funcionamiento:
 
     - :file-pdf: [Estatutos El Regreso](/comunidad-natural-el-regreso.pdf)
+
     - :file-pdf: [Acuerdo de Membresía](/acuerdo-de-membresia.pdf)
-  view: ''
+
+
+
+
+  view:
+  - contact
   sort: ''
   box:
     view: ''
     sort: ''
+  contact:
+  - type: mail
+    label: comunidadnaturalelregreso@proton.me
 - title: Casa Marabella
   subtitle: Una casa con encanto y alma, base de la comunidad
   image: /casa.jpg
