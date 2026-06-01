@@ -1,17 +1,17 @@
 ---
-slug: sabiduria-tolteca-y-cnv
-title: Sabiduría Tolteca y CNV
-image: /sabiduria-tolteca-y-cnv.png
-date: 2026-05-29 19:00:00
-end: 2026-05-31 19:00:00
+slug: etica-convivencial-practica
+title: Ética Convivencial Práctica
+image: /etica-convivencial-practica.png
+date: 2026-07-24 19:00:00
+end: 2026-07-26 19:00:00
 ---
-## 🌱🫂  Sabiduría Tolteca y CNV 🫂🌱
+## 🌱🫂  Ética Convivencial Práctica 🫂🌱
 
-Para el próximo encuentro profundizaremos en la realidad espiritual del pueblo Tolteca y su camino para vivir en paz y armonía con el mundo. Además relacionaremos esta cultura con la filosofía de la no violencia, en la que tendremos como referente la Comunicación No Violenta (CNV).
+El objetivo de este Curso es exponer los principios individuales de convivencia propios de las sociedades comunales de los pueblos de Iberia y hacer un análisis de la situación relacional y moral actual de las sociedades europeas,además veremos la forma deaplicar lo estudiado a la creación de nuevos colectivos y grupos fraternales.
 
-Revisaremos los acuerdos Toltecas y lo que estos nos pueden aportar en la actualidad acompañándolos de practicas meditativas que nos ayuden a interiorizarlos. Después, nos centraremos en los pasos de la CNV llevando acabo el proceso mediante ejercicios y prácticas grupales y también estudiaremos la manera en que podríamos relacionarlos con los acuerdos Tolteca. Y por supuesto, en este camino de paz y armonía no pueden faltar practicas de conciencia corporal y alquimia interior que nos servirán para llevar todos los conceptos e ideas al corazón que es donde reside nuestra sabiduría interior.
+Profundizaremos en la cosmovisión del amor para encaminarnos hacia una racionalidad relacional individual. Haremos un examen de los disvalores y males morales primarios anti convivenciales: poder, riqueza, placer y fama. Hablaremos sobre la ética del trabajo libre y comunitario, por afecto al otro y a los otros, y sobre la necesidad de la vida en común y su decisivo efecto terapéutico en el espíritu y en el cuerpo. Y también estudiaremos la democracia directa y el autogobierno en el contexto del comunal y su aplicación en la actualidad usando diferentes herramientas que pondremos en practica a lo largo del curso. Acompañaremos los conocimientos impartidos con prácticas que nos ayuden a conocernos y construirnos a nosotros mismos individual y colectivamente. El Curso será principalmente impartido por Félix Rodrigo Mora.
 
-Si te parece buena idéa, foméntala con tu asistencia y, de paso, nos visitas 🤗
+Si te parece buena idea, foméntala con tu asistencia o compártela y, de paso, nos visitas 🤗
 
 ✨✨✨✨✨
 
@@ -25,23 +25,23 @@ Si te parece buena idéa, foméntala con tu asistencia y, de paso, nos visitas �
 
 ## 🌮 Comida 🍝
 
-● Menú vegetariano
+● Menú vegetariano incluido
 
 ## 🎨 Qué traer 🎺
 
 ● Ropa cómoda y algo de abrigo
 
-● Sabanas, almohada y toalla.
+● Sabanas/saco de dormir, almohada y toalla.
 
-● Instrumentos musicales (opcionales)
+● Instrumentos musicales (opcional)
 
 ## 🌍 LUGAR
 
-"El Regreso"
+"El Regreso" (El Sabinar, Murcia)
 
 ## 📅 FECHA
 
-29, 30 y 31 de Mayo
+24, 25 y 26 de Julio
 
 ## 💱 Aportación flexible
 
@@ -51,14 +51,8 @@ Si te parece buena idéa, foméntala con tu asistencia y, de paso, nos visitas �
 
 ## ☎️ RESERVA
 
-
 [[:paper-plane: Contacto]](#contacto)
-
-
 
 [www.elregreso.life](/)
 
-
-
 [Instagram](https://www.instagram.com/elregreso.life?igsh=MTM1anF4NjkxM21lNA==)
-
