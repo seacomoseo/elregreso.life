@@ -1,12 +1,16 @@
 name: Colabora
+view: ''
 title: Colabora
 subtitle: Conexión con el entorno, con personas y contigo mismo
+sort: ''
 box:
   cols: 5
   cols_vs: 2
   icon_color: light
   line: true
   hs: 4
+  view: ''
+  sort: ''
 boxes:
 - title: Voluntariado
   subtitle: Uniendo fuerzas para el cambio
@@ -16,10 +20,6 @@ boxes:
   subtitle: Aprendiendo y creciendo juntos
   link: '#talleres'
   icon: hand-holding-hand
-- title: Encuentros
-  subtitle: Compartiendo experiencias
-  link: '#encuentros'
-  icon: group-arrows-rotate
 - title: Retiros
   subtitle: Espacios de reflexión y renovación
   link: '#retiros'
@@ -36,6 +36,8 @@ modal:
   inset: true
   caps: true
   line: true
+  view: ''
+  sort: ''
 modals:
 - title: Voluntariado
   subtitle: Uniendo fuerzas para el cambio
@@ -50,33 +52,41 @@ modals:
 
 
     Para más información, [contáctanos](#contacto).
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
 - title: Talleres
   subtitle: Aprendiendo y creciendo juntos
   icon: hand-holding-hand
   md: |
     Si quieres impartir tu taller en El Regreso, tenemos varias opciones de colaboración para mejorar la experiencia:
 
-    - :leaf: Estancia en la casa o acampada.
+    - :leaf: Alojamiento.
     - :leaf: Servicio de comida.
     - :leaf: Gestión de talleres.
     - :leaf: Gestión de cocina.
     - :leaf: Ludoteca.
 
     Para más información, [contáctanos](#contacto).
-- title: Encuentros
-  subtitle: Compartiendo experiencias
-  icon: group-arrows-rotate
-  md: |
-    Puedes realizar tu encuentro en El Regreso y disfrutar de las ecomodidades que ofrecen la casa y la comunidad.
-
-    Para más información, [contáctanos](#contacto).
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
 - title: Retiros
   subtitle: Espacios de reflexión y renovación
   icon: mountain-sun
   md: |
-    Qué mejor lugar que El Regreso para crear tu retiro, en plena naturaleza y en conexión con la pachamama.
+    Qué mejor lugar que El Regreso para hacer un retiro, en plena naturaleza y en conexión con la pachamama.
 
     Si quieres conocer las opciones que te podemos ofrecer, [contáctanos](#contacto).
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''
 - title: Donaciones
   subtitle: Apoyando nuestra misión
   image: https://youtu.be/TsMMwcGjTsk
@@ -126,3 +136,8 @@ modals:
 
     [[:hand-holding-heart: Crowdfunding]](https://gofund.me/d4520a98)
   ratio: 16/9
+  view: ''
+  sort: ''
+  box:
+    view: ''
+    sort: ''

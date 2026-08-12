@@ -1,9 +1,14 @@
 name: Contacto
+view: ''
 title: Contacto
 subtitle: ¿En qué podemos ayudarte?
+menu_button: cta
 size: sm
 div: mountain
-menu_button: cta
+sort: ''
+box:
+  view: ''
+  sort: ''
 contact:
 - type: whatsapp
   label: 644 424 430
@@ -29,4 +34,7 @@ contact:
   label: 644 424 430
   button: main
 - type: mail
-  label: crupelregreso@gmail.com
+  label: comunidadnaturalelregreso@proton.me
+modal:
+  view: ''
+  sort: ''
