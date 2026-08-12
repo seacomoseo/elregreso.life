@@ -10,7 +10,7 @@ tpl:
     rate: 3/4
     align: left
     shade: false
-    icon: ''
+    icon: hide
     icon_type: side
     price: hide
     md: hide

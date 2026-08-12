@@ -2,6 +2,7 @@ baseURL: https://elregreso.life
 buildFuture: true
 theme: [sansoul]
 params:
+  owner: seacomoseo
   domain: elregreso.life
   name: elregreso
   netlify_id: d73e18fa-c6e0-44dd-9a89-bc58c0bcedda

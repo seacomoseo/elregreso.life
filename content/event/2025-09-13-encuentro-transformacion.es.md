@@ -1,7 +1,6 @@
 ---
 slug: encuentro-transformacion
 title: Encuentro Transformación
-summary: ''
 image: 2025-09-13-encuentro-transformacion.jpg
 date: 2025-09-13 10:00:13
 end: 2025-09-14 14:00:43

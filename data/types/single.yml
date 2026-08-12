@@ -1,11 +1,11 @@
-title: Únicas
+title: Páginas Únicas
 weight: 0
 base: single
 tpl:
   menu:
     logo: false
     sticky: auto
-    size: ''
+    size: lg
     auto: same-modals
   callnow: custom
   section:
@@ -18,5 +18,5 @@ tpl:
     line: true
     div: mountain
   - color: light
-    bi: ''
+    bi: hide
     div_x: true
