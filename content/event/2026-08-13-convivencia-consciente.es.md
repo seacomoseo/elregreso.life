@@ -60,5 +60,5 @@ Si te parece buena idea, fomÃ©ntala con tu asistencia y, de paso, nos visitas ðŸ
 
 
 
-[https://www.instagram.com/elregreso.life?igsh=MTM1anF4NjkxM21lNA==](https://www.instagram.com/elregreso.life?igsh=MTM1anF4NjkxM21lNA==)
+[Instagram](https://www.instagram.com/elregreso.life?igsh=MTM1anF4NjkxM21lNA==)
 
