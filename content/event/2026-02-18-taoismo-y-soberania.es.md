@@ -1,8 +1,8 @@
 ---
 slug: taoismo-y-soberania
 title: Taoismo y Soberanía
-summary: ''
-image: /taoismo-y-soberania.png
+sum: ''
+img: /u/taoismo-y-soberania.png
 date: 2026-03-27 19:00:36
 end: 2026-03-29 19:00:36
 ---
@@ -18,23 +18,21 @@ Si te parece buena idéa, foméntala con tu asistencia y, de paso, nos visitas �
 
 ## 🌲 Espacio 🌲
 
-● Un proyecto de permacultura en plena sierra, un valle rodeado por dos arroyos y de bosque, con una espaciosa casa comunitaria.
+- Un proyecto de permacultura en plena sierra, un valle rodeado por dos arroyos y de bosque, con una espaciosa casa comunitaria.
 
 ## 🏠 Alojamiento 🌿
 
-● En la casa comunitaria "Marabella" en habitación compartida.
+- En la casa comunitaria "Marabella" en habitación compartida.
 
 ## 🌮 Comida 🍝
 
-● Menú vegetariano
+- Menú vegetariano
 
 ## 🎨 Qué traer 🎺
 
-● Ropa cómoda y algo de abrigo
-
-● Sabanas, almohada y toalla.
-
-● Instrumentos musicales (opcional)
+- Ropa cómoda y algo de abrigo
+- Sabanas, almohada y toalla.
+- Instrumentos musicales (opcional)
 
 ## 🌍 LUGAR
 
@@ -53,7 +51,7 @@ Si te parece buena idéa, foméntala con tu asistencia y, de paso, nos visitas �
 ## ☎️ RESERVA
 
 
-[[:paper-plane: Contacto]](#contacto)
+[[::send:: Contacto]](#contacto)
 
 
 

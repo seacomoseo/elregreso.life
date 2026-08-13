@@ -1,14 +1,15 @@
 ---
-slug: inicio
+slug: /
 title: Inicio
-image: /paisaje-4.jpg
+img: /u/paisaje-4.jpg
 draft: false
-noindex: false
-seo: 'El Regreso: Comunidad Natural'
-description: llll➤ "El Regreso" es un espacio donde se desarrolla un proyecto de permacultura ✅ guiado por una comunidad de seres entregados a su crecimiento.
+seo:
+  title: 'El Regreso: Comunidad Natural'
+  desc: llll➤ "El Regreso" es un espacio donde se desarrolla un proyecto de permacultura ✅ guiado por una comunidad de seres entregados a su crecimiento.
+  noindex: false
 tpl:
   sections:
-  - file: _header
+  - file: _hero
   - file: el-proyecto
   - file: la-comunidad
   - file: calendario
@@ -22,30 +23,29 @@ org:
   - Organization
   names:
   - El Regreso
-  summary: '"El Regreso" es un espacio donde se desarrolla un proyecto de permacultura guiado por una comunidad de personitas entregadas a su crecimiento.'
+  sum: '"El Regreso" es un espacio donde se desarrolla un proyecto de permacultura guiado por una comunidad de personitas entregadas a su crecimiento.'
   legal: ''
   nif: ''
-  email: ''
-  logo: base/poster-sq.svg
-  images:
-  - fondo.jpg
-  - la-comunidad.jpg
-  - 2023-06-14-14-08-16.jpg
+  mail: ''
+  logo: /u/base/poster-sq.svg
+  imgs:
+  - /u/fondo.jpg
+  - /u/la-comunidad.jpg
   as:
   - https://www.facebook.com/ComunidadElRegreso/
   phones:
   - 644 424 430
   address:
-    name: ''
+  - name: ''
     street: Plaza Mayor, 1
     pc: '30441'
     locality: El Sabinar
     region: Murcia
     country: España
     geo: '{"type":"Point","coordinates":[-2.1553614,38.2065464]}'
-    link: ''
+    url: ''
   areas: []
-  schedule: []
+  when: []
   prices: €€
   services: []
 ---

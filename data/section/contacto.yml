@@ -1,40 +1,33 @@
 name: Contacto
-view: ''
-title: Contacto
-subtitle: ¿En qué podemos ayudarte?
-menu_button: cta
+menu_btn: cta
 size: sm
 div: mountain
-sort: ''
-box:
-  view: ''
-  sort: ''
-contact:
-- type: whatsapp
-  label: 644 424 430
-- type: custom
-  link: https://chat.whatsapp.com/Lcd6VDvOGop67qtehfFXdG
-  label: Comunidad El Regreso
-  icon: whatsapp
-  lock: true
-  swap: true
-  button: whatsapp
-- type: custom
-  link: https://t.me/+34644424430
-  label: 644 424 430
-  icon: telegram
-  lock: true
-- type: custom
-  link: https://t.me/+azUt7jKljoIwOWNi
-  label: Comunidad El Regreso
-  icon: telegram
-  lock: true
-  swap: true
-- type: phone
-  label: 644 424 430
-  button: main
-- type: mail
-  label: comunidadnaturalelregreso@proton.me
-modal:
-  view: ''
-  sort: ''
+boxes:
+- title: Contacto
+  sub: ¿En qué podemos ayudarte?
+  links:
+  - type: whatsapp
+    label: 644 424 430
+  - type: custom
+    url: https://chat.whatsapp.com/Lcd6VDvOGop67qtehfFXdG
+    label: Comunidad El Regreso
+    icon: brand:whatsapp
+    lock: true
+    swap: true
+    btn: whatsapp
+  - type: custom
+    url: https://t.me/+34644424430
+    label: 644 424 430
+    icon: brand:telegram
+    lock: true
+  - type: custom
+    url: https://t.me/+azUt7jKljoIwOWNi
+    label: Comunidad El Regreso
+    icon: brand:telegram
+    lock: true
+    swap: true
+  - type: phone
+    label: 644 424 430
+    btn: main
+  - type: mail
+    label: comunidadnaturalelregreso@proton.me

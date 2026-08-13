@@ -1,15 +1,4 @@
-langs:
-- lang: es
-  title: El Regreso
-  description: '"El Regreso" es un espacio donde se desarrolla un proyecto de permacultura guiado por una comunidad de personitas entregadas a su crecimiento.'
-  google_analytics: G-Y5Z884CB9W
-  google_file_verification: google7467d923cbb3eb4c.html
-cms:
-  logo: base/icon.svg
-others:
-  show: true
-defaults:
-- name: index
-  value: 'false'
-  type: boolean
-  path: [ '/event', '/event/*']
+ga4: G-Y5Z884CB9W
+g_file_verify: google7467d923cbb3eb4c.html
+cms_logo: /u/base/icon.svg
+show: true

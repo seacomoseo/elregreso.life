@@ -1,7 +1,7 @@
 ---
 slug: convivencia-consciente
 title: Convivencia Consciente
-image: /convivencia-consciente-ii.png
+img: /u/convivencia-consciente-ii.png
 date: 2025-10-24 19:00:14
 end: 2025-10-26 17:00:14
 ---
@@ -66,7 +66,7 @@ Flexible
 ## ☎️ RESERVA
 
 
-[[:paper-plane: Contacto]](#contacto)
+[[::send:: Contacto]](#contacto)
 
 
 

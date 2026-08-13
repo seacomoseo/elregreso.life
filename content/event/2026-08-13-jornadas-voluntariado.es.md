@@ -1,7 +1,7 @@
 ---
 slug: jornadas-voluntariado
 title: Jornadas de Voluntariado
-image: /jornadas-de-voluntariado-4.png
+img: /u/jornadas-de-voluntariado-4.png
 date: 2026-08-31 19:00:55
 end: 2026-09-04 19:00:13
 ---
@@ -46,7 +46,7 @@ Si queréis venir no dudéis en contactarnos 😉
 
 ## ☎️ RESERVA
 
-[[:paper-plane: Contacto]](#contacto)
+[[::send:: Contacto]](#contacto)
 
 [www.elregreso.life](/)
 

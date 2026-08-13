@@ -1,7 +1,7 @@
 ---
 slug: etica-convivencial-practica
 title: Ética Convivencial Práctica
-image: /etica-convivencial-practica.png
+img: /u/etica-convivencial-practica.png
 date: 2026-07-24 19:00:00
 end: 2026-07-26 19:00:00
 ---
@@ -17,23 +17,21 @@ Si te parece buena idea, foméntala con tu asistencia o compártela y, de paso, 
 
 ## 🌲 Espacio 🌲
 
-● Un proyecto de permacultura en plena sierra, un valle rodeado por dos arroyos y de bosque, con una espaciosa casa comunitaria.
+- Un proyecto de permacultura en plena sierra, un valle rodeado por dos arroyos y de bosque, con una espaciosa casa comunitaria.
 
 ## 🏠 Alojamiento 🌿
 
-● En la casa comunitaria "Marabella" en habitación compartida.
+- En la casa comunitaria "Marabella" en habitación compartida.
 
 ## 🌮 Comida 🍝
 
-● Menú vegetariano incluido
+- Menú vegetariano incluido
 
 ## 🎨 Qué traer 🎺
 
-● Ropa cómoda y algo de abrigo
-
-● Sabanas/saco de dormir, almohada y toalla.
-
-● Instrumentos musicales (opcional)
+- Ropa cómoda y algo de abrigo
+- Sabanas/saco de dormir, almohada y toalla
+- Instrumentos musicales (opcional)
 
 ## 🌍 LUGAR
 
@@ -51,7 +49,7 @@ Si te parece buena idea, foméntala con tu asistencia o compártela y, de paso, 
 
 ## ☎️ RESERVA
 
-[[:paper-plane: Contacto]](#contacto)
+[[::send:: Contacto]](#contacto)
 
 [www.elregreso.life](/)
 

@@ -1,0 +1,6 @@
+- name: index
+  value: 'false'
+  type: bool
+  path:
+  - /event
+  - /event/*

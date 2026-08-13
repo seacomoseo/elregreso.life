@@ -11,12 +11,13 @@ tpl:
   section:
   - size: lg
     color: dark
-    bi: fondo.jpg
+    bi: /u/fondo.jpg
     alpha: 0.7
-    parallax: fix
-    caps: true
-    line: true
+    scroll: fix
     div: mountain
+    box:
+      caps: true
+      line: true
   - color: light
     bi: hide
     div_x: true

@@ -1,0 +1,21 @@
+title: Valores Globales
+menu:
+  img: /u/base/logo-h.svg
+callnows:
+- type: custom
+  url: https://t.me/+34644424430
+  label: ¡Pulsa y chatea por Telegram!
+  icon: brand:telegram
+  lock: true
+- type: whatsapp
+  label: 644 424 430
+footer:
+  space: 2
+  div: mountain
+  md: |
+    - ::copyright::      {{< internal-link index >}}
+    - ::balance:: {{< internal-link legal >}}
+    - ::encrypted:: {{< internal-link privacy >}}
+    - ::cookie::    {{< internal-link cookies >}}
+    - ::brand:seacomoseo::     {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
+    {.list-inline}

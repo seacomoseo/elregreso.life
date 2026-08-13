@@ -1,0 +1,12 @@
+name: Hero
+color: dark
+size: xs
+full: true
+boxes:
+- hanchor: El Regreso - Comunidad Natural
+  line: false
+  md: |
+    Espacio donde se desarrolla un proyecto de permacultura guiado por una comunidad de seres entregados a su crecimiento
+
+    [[::add:: Más]](#more)
+  img: /u/base/logo.svg

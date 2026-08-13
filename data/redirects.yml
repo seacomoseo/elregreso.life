@@ -1,0 +1,48 @@
+
+- { from: /protocolo-entrada-y-salida-de-miembros-cruper.pdf , to: /u/protocolo-entrada-y-salida-de-miembros-cruper.pdf }
+
+- { from: /2023-05-05-regreso-a-las-cavernas/ , to: /evento/2023/05/05/regreso-a-las-cavernas/ }
+- { from: /2023-06-24-circulo-de-voces/ , to: /evento/2023/06/24/circulo-de-voces/ }
+- { from: /2023-07-07-yoga-integrativo/ , to: /evento/2023/07/07/yoga-integrativo/ }
+- { from: /2023-07-15-union/ , to: /evento/2023/07/15/union/ }
+- { from: /2023-07-17-regresarte/ , to: /evento/2023/07/17/regresarte/ }
+- { from: /2023-07-28-encuentro-verano-repesei/ , to: /evento/2023/07/28/encuentro-verano-repesei/ }
+- { from: /2023-08-11-regresa-la-gran-tribu/ , to: /evento/2023/08/11/regresa-la-gran-tribu/ }
+- { from: /2023-08-18-union/ , to: /evento/2023/08/18/union/ }
+- { from: /2023-09-21-liberate-del-pasado/ , to: /evento/2023/09/21/liberate-del-pasado/ }
+- { from: /2023-09-22-union/ , to: /evento/2023/09/22/union/ }
+- { from: /2023-10-27-samhain/ , to: /evento/2023/10/27/samhain/ }
+
+- { from: /evento/2023-05-05-regreso-a-las-cavernas/ , to: /evento/2023/05/05/regreso-a-las-cavernas/ }
+- { from: /evento/2023-06-24-circulo-de-voces/ , to: /evento/2023/06/24/circulo-de-voces/ }
+- { from: /evento/2023-07-07-yoga-integrativo/ , to: /evento/2023/07/07/yoga-integrativo/ }
+- { from: /evento/2023-07-15-union/ , to: /evento/2023/07/15/union/ }
+- { from: /evento/2023-07-17-regresarte/ , to: /evento/2023/07/17/regresarte/ }
+- { from: /evento/2023-07-28-encuentro-verano-repesei/ , to: /evento/2023/07/28/encuentro-verano-repesei/ }
+- { from: /evento/2023-08-11-regresa-la-gran-tribu/ , to: /evento/2023/08/11/regresa-la-gran-tribu/ }
+- { from: /evento/2023-08-18-union/ , to: /evento/2023/08/18/union/ }
+- { from: /evento/2023-09-21-liberate-del-pasado/ , to: /evento/2023/09/21/liberate-del-pasado/ }
+- { from: /evento/2023-09-22-union/ , to: /evento/2023/09/22/union/ }
+- { from: /evento/2023-10-27-samhain/ , to: /evento/2023/10/27/samhain/ }
+
+# 2024-09-14
+- { from: /2023/* , to: / }
+- { from: /2024/* , to: / }
+- { from: /category/* , to: / }
+- { from: /cdmx/* , to: / }
+- { from: /cultura/* , to: / }
+- { from: /deportes/* , to: / }
+- { from: /economia/* , to: / }
+- { from: /educacion/* , to: / }
+- { from: /espectaculos/* , to: / }
+- { from: /estados/* , to: / }
+- { from: /estilo/* , to: / }
+- { from: /internacionales/* , to: / }
+- { from: /nacional/* , to: / }
+- { from: /principal/* , to: / }
+- { from: /salud/* , to: / }
+- { from: /tag/* , to: / }
+- { from: /tecnologia/* , to: / }
+- { from: /turismo/* , to: / }
+- { from: /uncategorized/* , to: / }
+- { from: /lander , to: / }

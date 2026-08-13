@@ -1,7 +1,7 @@
 title: Eventos
 base: event
 weight: 1
-related: true
+rel: true
 tpl:
   list:
     cols: 3
@@ -11,17 +11,17 @@ tpl:
     align: left
     shade: false
     icon: hide
-    icon_type: side
+    icon_pos: side
     price: hide
     md: hide
-    button: hide
+    btn: hide
     tags:
     - type: date
     # - type: address
     - type: param
       param: address.name
-      icon: house
+      icon: home
     - type: param
       param: address.locality
-      icon: location-dot
+      icon: place
     - type: tax

@@ -1,39 +1,23 @@
 name: La Comunidad
-view: ''
-title: La Comunidad
-subtitle: La vuelta a la tierra no es un retiro, más bien "El Regreso"
-sort: ''
-box:
-  cols: 2
-  view: ''
-  sort: ''
 boxes:
-- bi: /voluntariado-2.jpg
-  parallax: soft
-  view: ''
-  sort: ''
+- title: La Comunidad
+  sub: La vuelta a la tierra no es un retiro, más bien "El Regreso"
   box:
-    view: ''
-    sort: ''
-- md: |
-    Esta comunidad ha nacido desde una visión común de crecimiento interior y con un fuerte deseo de regresar a la vida rural para generar un entorno sostenible y saludable.
+    cols: 2
+  boxes:
+  - bi: /u/voluntariado-2.jpg
+    scroll: soft
+  - md: |
+      Esta comunidad ha nacido desde una visión común de crecimiento interior y con un fuerte deseo de regresar a la vida rural para generar un entorno sostenible y saludable.
 
-    Creemos que ahora más que nunca, no solo es posible, sino necesario, la creación de un nuevo mundo, una cultura en armonía con la pachamama.
+      Creemos que ahora más que nunca, no solo es posible, sino necesario, la creación de un nuevo mundo, una cultura en armonía con la pachamama.
 
-    Porque consideramos que las personas no deben ser tomadas como meros objetos, y tenemos la certeza de que la naturaleza no debe ser subyugada a nuestros caprichos.
+      Porque consideramos que las personas no deben ser tomadas como meros objetos, y tenemos la certeza de que la naturaleza no debe ser subyugada a nuestros caprichos.
 
-    Porque creemos que no hay nada que nos separe, salvo nuestros miedos y prejuicios; somos parte de un único ser viviente y sintiente, no olvidemos pues, el dolor provocado es sufrimiento retornado.
+      Porque creemos que no hay nada que nos separe, salvo nuestros miedos y prejuicios; somos parte de un único ser viviente y sintiente, no olvidemos pues, el dolor provocado es sufrimiento retornado.
 
-    Porque sentimos que la vuelta a la tierra no es un retiro, más bien el regreso. Por los que estamos, por las futuras semillas, elegimos vivir en lugar de sobrevivir.
+      Porque sentimos que la vuelta a la tierra no es un retiro, más bien el regreso. Por los que estamos, por las futuras semillas, elegimos vivir en lugar de sobrevivir.
 
-    Las puertas están y estarán abiertas. Si así lo sientes, ven y sé participe en esta nueva gestación, una con la que la madre tierra se sienta en paz.
-  align: left
-  align_y: center
-  view: ''
-  sort: ''
-  box:
-    view: ''
-    sort: ''
-modal:
-  view: ''
-  sort: ''
+      Las puertas están y estarán abiertas. Si así lo sientes, ven y sé participe en esta nueva gestación, una con la que la madre tierra se sienta en paz.
+    align: left
+    align_y: center

@@ -1,44 +1,37 @@
 name: Fotos
-view: ''
-title: Fotos
-subtitle: ¿Cómo es nuestro entorno?
 ph: true
 size: fluid
-sort: ''
-box:
-  view: ''
-  sort: ''
-gallery:
-  cols: 6
-  color: similar
-  ratio: 1/1
-images:
-- /ventana-2.jpg
-- /circulo.jpg
-- /espiral-1.jpg
-- /espiral.jpg
-- /paisaje-4.jpg
-- /nogal.jpg
-- /paisaje-2.jpg
-- /fuego-1.jpg
-- /paisaje-3.jpg
-- /almendro.jpg
-- /fuente-almeces-2.jpg
-- /camino.jpg
-- /caravana-2.jpg
-- fondo.jpg
-- /alberca-2.jpg
-- /salon-1.jpg
-- /salon-2.jpg
-- /bano.jpg
-- /biblioteca-2.jpg
-- /biblioteca.jpg
-- /cocina.jpg
-- /casa.jpg
-- /fuego-2.jpg
-- /voluntariado-1.jpg
-- /voluntariado-2.jpg
-- /clase-taichi.jpg
-modal:
-  view: ''
-  sort: ''
+boxes:
+- title: Fotos
+  sub: ¿Cómo es nuestro entorno?
+  gallery:
+    cols: 6
+    color: such
+    ratio: 1/1
+  imgs:
+  - /u/ventana-2.jpg
+  - /u/circulo.jpg
+  - /u/espiral-1.jpg
+  - /u/espiral.jpg
+  - /u/paisaje-4.jpg
+  - /u/nogal.jpg
+  - /u/paisaje-2.jpg
+  - /u/fuego-1.jpg
+  - /u/paisaje-3.jpg
+  - /u/almendro.jpg
+  - /u/fuente-almeces-2.jpg
+  - /u/camino.jpg
+  - /u/caravana-2.jpg
+  - /u/fondo.jpg
+  - /u/alberca-2.jpg
+  - /u/salon-1.jpg
+  - /u/salon-2.jpg
+  - /u/bano.jpg
+  - /u/biblioteca-2.jpg
+  - /u/biblioteca.jpg
+  - /u/cocina.jpg
+  - /u/casa.jpg
+  - /u/fuego-2.jpg
+  - /u/voluntariado-1.jpg
+  - /u/voluntariado-2.jpg
+  - /u/clase-taichi.jpg

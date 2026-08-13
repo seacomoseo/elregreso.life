@@ -1,7 +1,7 @@
 ---
 slug: jornadas-voluntariado
 title: Jornadas de Voluntariado
-image: /jornadas-de-voluntariado-3.png
+img: /u/jornadas-de-voluntariado-3.png
 date: 2026-04-27 11:39:13
 end: 2026-05-03 19:00:13
 ---
@@ -45,7 +45,7 @@ Un proyecto de permacultura en plena sierra, un valle rodeado por dos arroyos y 
 ## ☎️ RESERVA
 
 
-[[:paper-plane: Contacto]](#contacto)
+[[::send:: Contacto]](#contacto)
 
 
 

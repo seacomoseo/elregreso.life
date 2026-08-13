@@ -1,76 +1,51 @@
 name: El Proyecto
-view: ''
-title: El Proyecto
-subtitle: Promoviendo una nueva forma de vida sostenible
-md: |
-  Somos una comunidad embarcada en un proyecto de autosuficiencia y sostenibilidad, conservación de la biodiversidad, defensa de la ruralidad y el equilibrio perdurable como alternativa al modelo macrourbano, desarrollista e individualista dominante. Y, en resumen, intentamos promover la Comunidad Natural como institución socioeconómica, laboral, cultural y educativa que garantiza las necesidades básicas de sus miembros.
-
-  Parte esencial de nuestra filosofía es interactuar, en todos los ámbitos posibles, con los colectivos locales, logrando así un enriquecimiento mutuo en el intercambio de experiencias vitales, y especialmente intercambiar experiencias y crear lazos de unión con otras comunidades semejantes.
-align: center
-sort: ''
-box:
-  color: white
-  line: true
-  ratio: 3/2
-  inset: true
-  cols: 4
-  view: ''
-  sort: ''
 boxes:
-- title: El hábitat
-  subtitle: Conviviendo en armonía con la naturaleza
-  link: '#el-habitat'
-  image: /paisaje-4.jpg
-  md: Un entorno natural en Moratalla, Murcia, con bosques de pinos y encinas, diversidad de flora y fauna, ideal para una vida sostenible y en armonía con la naturaleza
-  view: ''
-  sort: ''
+- title: El Proyecto
+  sub: Promoviendo una nueva forma de vida sostenible
+  md: |
+    Somos una comunidad embarcada en un proyecto de autosuficiencia y sostenibilidad, conservación de la biodiversidad, defensa de la ruralidad y el equilibrio perdurable como alternativa al modelo macrourbano, desarrollista e individualista dominante. Y, en resumen, intentamos promover la Comunidad Natural como institución socioeconómica, laboral, cultural y educativa que garantiza las necesidades básicas de sus miembros.
+
+    Parte esencial de nuestra filosofía es interactuar, en todos los ámbitos posibles, con los colectivos locales, logrando así un enriquecimiento mutuo en el intercambio de experiencias vitales, y especialmente intercambiar experiencias y crear lazos de unión con otras comunidades semejantes.
+  align: center
   box:
-    view: ''
-    sort: ''
-- title: Los principios
-  subtitle: 'Permacultura: Nuestro camino hacia la sostenibilidad'
-  link: '#los-principios'
-  image: /espiral.jpg
-  md: Agricultura orgánica, bioconstrucción, economía local, tecnologías alternativas, energías renovables, agua consciente, gestión de residuos...
-  view: ''
-  sort: ''
-  box:
-    view: ''
-    sort: ''
-- title: El Regreso
-  subtitle: Comunidad Natural <br> El Regreso
-  link: '#el-regreso'
-  image: /circulo.jpg
-  md: Un proyecto dentro de la asociación Volver a la Tierra, compartiendo objetivos y principios para promover la vida sostenible en la comunidad rural
-  view: ''
-  sort: ''
-  box:
-    view: ''
-    sort: ''
-- title: Marabella
-  subtitle: Una casa con encanto y alma, base de la comunidad
-  link: '#casa-marabella'
-  image: /casa.jpg
-  md: Sede de las reuniones, equipada para actividades compartidas, autosuficiente y sostenible, impulsada por una economía consciente y solidaria
-  view: ''
-  sort: ''
-  box:
-    view: ''
-    sort: ''
+    cols: 4
+    color: white
+    ratio: 3/2
+    inset: true
+    line: true
+  boxes:
+  - title: El hábitat
+    sub: Conviviendo en armonía con la naturaleza
+    url: '#el-habitat'
+    img: /u/paisaje-4.jpg
+    md: Un entorno natural en Moratalla, Murcia, con bosques de pinos y encinas, diversidad de flora y fauna, ideal para una vida sostenible y en armonía con la naturaleza.
+  - title: Los principios
+    sub: 'Permacultura: Nuestro camino hacia la sostenibilidad'
+    url: '#los-principios'
+    img: /u/espiral.jpg
+    md: Agricultura orgánica, bioconstrucción, economía local, tecnologías alternativas, energías renovables, agua consciente, gestión de residuos...
+  - title: El Regreso
+    sub: Comunidad Natural <br> El Regreso
+    url: '#el-regreso'
+    img: /u/circulo.jpg
+    md: Un proyecto dentro de la asociación Volver a la Tierra, compartiendo objetivos y principios para promover la vida sostenible en la comunidad rural.
+  - title: Marabella
+    sub: Una casa con encanto y alma, base de la comunidad
+    url: '#casa-marabella'
+    img: /u/casa.jpg
+    md: Sede de las reuniones, equipada para actividades compartidas, autosuficiente y sostenible, impulsada por una economía consciente y solidaria.
 modal:
   size: xs
   color: white
-  icon_type: top
+  icon_pos: top
   ratio: 3/2
   inset: true
   caps: true
   line: true
-  view: ''
-  sort: ''
 modals:
 - title: El Hábitat
-  subtitle: Conviviendo en armonía con la naturaleza
-  image: /paisaje-4.jpg
+  sub: Conviviendo en armonía con la naturaleza
+  img: /u/paisaje-4.jpg
   md: |
     La finca donde se desarrolla el proyecto se encuentra en el término municipal de Moratalla (Murcia), en un valle a unos 1000 metros de altitud situado entre dos arroyos que llevan agua todo el año (formándose pozas donde bañarse a lo largo de éstos).
 
@@ -87,14 +62,9 @@ modals:
     En resumen, nos encontramos en un entorno natural muy fértil con mucha biodiversidad, en el que hace no muchos años vivía la gente de manera auto-suficiente, en grupos dispersos a lo largo de la sierra en diversos cortijos que a día de hoy aun podemos encontrar en mejor o peor estado.
 
     Es un lugar perfecto al que regresar para llevar una vida de calidad, una vida que le de un respiro al planeta.
-  view: ''
-  sort: ''
-  box:
-    view: ''
-    sort: ''
 - title: Los Principios
-  subtitle: 'Permacultura: Nuestro camino hacia la sostenibilidad'
-  image: /espiral.jpg
+  sub: 'Permacultura: Nuestro camino hacia la sostenibilidad'
+  img: /u/espiral.jpg
   md: |
     A grandes rasgos se podría decir que la intención es ir en dirección a la permacultura.
 
@@ -110,35 +80,20 @@ modals:
     1. La movilidad sostenible.
     1. La educación libre.
     1. Las dinámicas de crecimiento personal y grupal.
-  view: ''
-  sort: ''
-  box:
-    view: ''
-    sort: ''
 - title: El Regreso
-  subtitle: Comunidad Natural El Regreso
-  image: /circulo.jpg
+  sub: Comunidad Natural El Regreso
+  img: /u/circulo.jpg
   md: |+
     Para no extendernos mucho, pues es una larga historia, decir que la Comunidad Natural El Regreso nace de la C.RU.PER (Comunidad rural perdurable) El Regreso la cual forma parte de la asociación Volver a la Tierra, con la que comparte fines.
 
     Si queréis conocer mejor cómo funcionamos, no dudéis en escribirnos y os facilitaremos nuestros Estatutos y el Acuerdo de Membresía.
-
-
-
-
-  view:
-  - contact
-  sort: ''
-  box:
-    view: ''
-    sort: ''
-  contact:
+  links:
   - type: mail
     label: comunidadnaturalelregreso@proton.me
     full: true
 - title: Casa Marabella
-  subtitle: Una casa con encanto y alma, base de la comunidad
-  image: /casa.jpg
+  sub: Una casa con encanto y alma, base de la comunidad
+  img: /u/casa.jpg
   md: |
     Marabella es el nombre que le pusieron a la casa los promotores, y como bien sugiere este, es una maravilla, no solo por el encanto que tiene sino por el alma que le dieron en su construcción.
 
@@ -151,8 +106,3 @@ modals:
     Además, una característica recalcable es que dispone de dos baños con váter seco, algo imprescindible para seguir los principios de la comunidad, y es que aquí procuramos gestionar nuestros desechos con sumo cuidado.
 
     Se pretende que sea lo más autosuficiente posible; el agua llega a la casa por dos vías, una es la recolectada de lluvia y la otra es la que viene por manguera desde una arqueta que recoge el agua que brota de un manantial, y la electricidad la generan paneles solares.
-  view: ''
-  sort: ''
-  box:
-    view: ''
-    sort: ''

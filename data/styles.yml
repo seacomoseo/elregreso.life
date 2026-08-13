@@ -1,8 +1,12 @@
 icons:
-  type: solid
-  sharp: false
-  emojis: false
-  play: youtube-iframe
+  fill: true
+  weight: 700
+  grade: 0
+  optical: 24
+  style: rounded
+  def:
+    def:
+    play: youtube-iframe
   up:
   down:
   left:
@@ -23,7 +27,6 @@ fonts:
     italic: false
     line_height: 1.25
     size: 1
-    top: 0
   title:
     google: false
     family: Daniel
@@ -32,14 +35,13 @@ fonts:
     italic: false
     line_height: 1.25
     size: 1
-    top: 0
   blockquote_cursive: false
 colors:
   main:
     color: '#88827a'
     light: '' #97928a
     dark: '' #79736a
-    contrast:
+    turn:
       fill: false
       in: false
       text: false
@@ -47,7 +49,7 @@ colors:
     color: '#a7a29a'
     light: ''
     dark: ''
-    contrast:
+    turn:
       fill: true
       in: true
       text: true
@@ -55,7 +57,7 @@ colors:
     color: '#6fc4bc'
     light: ''
     dark: ''
-    contrast:
+    turn:
       fill: false
       in: false
       text: false
@@ -68,8 +70,8 @@ colors:
 rounded:
   radius: 1.33
   chamfer: false
-buttons:
-  sides_round: true
+btns:
+  pill: true
   icon_circle: true
   deep: true
   outline: false

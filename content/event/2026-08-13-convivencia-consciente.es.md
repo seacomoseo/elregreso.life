@@ -1,7 +1,7 @@
 ---
 slug: convivencia-consciente
 title: Convivencia Consciente
-image: /convivencia-consciente-iii.png
+img: /u/convivencia-consciente-iii.png
 date: 2026-08-28 19:00:14
 end: 2026-08-30 18:00:14
 ---
@@ -53,7 +53,7 @@ Si te parece buena idea, foméntala con tu asistencia y, de paso, nos visitas �
 
 ## ☎️ RESERVA
 
-[[:paper-plane: Contacto]](#contacto)
+[[::send:: Contacto]](#contacto)
 
 
 [www.elregreso.life](/)
@@ -61,4 +61,3 @@ Si te parece buena idea, foméntala con tu asistencia y, de paso, nos visitas �
 
 
 [Instagram](https://www.instagram.com/elregreso.life?igsh=MTM1anF4NjkxM21lNA==)
-

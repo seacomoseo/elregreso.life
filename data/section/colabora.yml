@@ -1,98 +1,78 @@
 name: Colabora
-view: ''
-title: Colabora
-subtitle: Conexión con el entorno, con personas y contigo mismo
-sort: ''
-box:
-  cols: 5
-  cols_vs: 2
-  icon_color: light
-  line: true
-  hs: 4
-  view: ''
-  sort: ''
 boxes:
-- title: Voluntariado
-  subtitle: Uniendo fuerzas para el cambio
-  link: '#voluntariado'
-  icon: hands-holding-heart
-- title: Talleres
-  subtitle: Aprendiendo y creciendo juntos
-  link: '#talleres'
-  icon: hand-holding-hand
-- title: Retiros
-  subtitle: Espacios de reflexión y renovación
-  link: '#retiros'
-  icon: mountain-sun
-- title: Donaciones
-  subtitle: Apoyando el proyecto
-  link: '#donaciones'
-  icon: hand-holding-heart
+- title: Colabora
+  sub: Conexión con el entorno, con personas y contigo mismo
+  box:
+    cols: 5
+    cols_vs: 2
+    icon_color: light
+    line: true
+    hs: 4
+  boxes:
+  - title: Voluntariado
+    sub: Uniendo fuerzas para el cambio
+    url: '#voluntariado'
+    icon: diversity_2
+  - title: Talleres
+    sub: Aprendiendo y creciendo juntos
+    url: '#talleres'
+    icon: cheer
+  - title: Retiros
+    sub: Espacios de reflexión y renovación
+    url: '#retiros'
+    icon: landscape_2
+  - title: Donaciones
+    sub: Apoyando el proyecto
+    url: '#donaciones'
+    icon: volunteer_activism
 modal:
   size: xs
   color: white
-  icon_type: top
+  icon_pos: top
   ratio: 3/2
   inset: true
   caps: true
   line: true
-  view: ''
-  sort: ''
 modals:
 - title: Voluntariado
-  subtitle: Uniendo fuerzas para el cambio
-  icon: hands-holding-heart
+  sub: Uniendo fuerzas para el cambio
+  icon: diversity_2
   md: |
     Visítanos como voluntari@ en las jornadas que realizamos en este espacio que no para de crecer con tu ayuda.
 
     Puedes ver el calendario o unirte al grupo de WhatsApp de voluntarios para estar al día de las jornadas:
 
 
-    [[:whatsapp: Voluntariado]](https://chat.whatsapp.com/CbHBZ1WAFoh8CXOAEXt1jk)
+    [[::brand:whatsapp:: Voluntariado]](https://chat.whatsapp.com/CbHBZ1WAFoh8CXOAEXt1jk)
 
 
     Para más información, [contáctanos](#contacto).
-  view: ''
-  sort: ''
-  box:
-    view: ''
-    sort: ''
 - title: Talleres
-  subtitle: Aprendiendo y creciendo juntos
-  icon: hand-holding-hand
+  sub: Aprendiendo y creciendo juntos
+  icon: cheer
   md: |
     Si quieres impartir tu taller en El Regreso, tenemos varias opciones de colaboración para mejorar la experiencia:
 
-    - :leaf: Alojamiento.
-    - :leaf: Servicio de comida.
-    - :leaf: Gestión de talleres.
-    - :leaf: Gestión de cocina.
-    - :leaf: Ludoteca.
+    - ::eco:: Alojamiento.
+    - ::eco:: Servicio de comida.
+    - ::eco:: Gestión de talleres.
+    - ::eco:: Gestión de cocina.
+    - ::eco:: Ludoteca.
 
     Para más información, [contáctanos](#contacto).
-  view: ''
-  sort: ''
-  box:
-    view: ''
-    sort: ''
 - title: Retiros
-  subtitle: Espacios de reflexión y renovación
-  icon: mountain-sun
+  sub: Espacios de reflexión y renovación
+  icon: landscape_2
   md: |
     Qué mejor lugar que El Regreso para hacer un retiro, en plena naturaleza y en conexión con la pachamama.
 
     Si quieres conocer las opciones que te podemos ofrecer, [contáctanos](#contacto).
-  view: ''
-  sort: ''
-  box:
-    view: ''
-    sort: ''
 - title: Donaciones
-  subtitle: Apoyando nuestra misión
-  image: https://youtu.be/TsMMwcGjTsk
+  sub: Apoyando nuestra misión
+  img: https://youtu.be/TsMMwcGjTsk
   size: sm
   md: |
-    [[:hand-holding-heart: Crowdfunding]](https://gofund.me/d4520a98)
+    [[::volunteer_activism:: Crowdfunding]](https://gofund.me/d4520a98)
     {.align-center}
 
     En un valle conformado por la confluencia de dos arroyos, el terreno que nos rodea ha sido reverdecido con muchas variedades diferentes de árboles, frutales y arbustos.
@@ -117,27 +97,22 @@ modals:
 
     Los trabajos más urgentes que queremos llevar a cabo son:
 
-    - :leaf: Reparación de tejados
-    - :leaf: Reparación de terrazas
-    - :leaf: Reparación de los muros dañados
-    - :leaf: Mejoras en el suelo
-    - :leaf: Un nuevo sistema solar que dure otros 20 años
+    - ::eco:: Reparación de tejados
+    - ::eco:: Reparación de terrazas
+    - ::eco:: Reparación de los muros dañados
+    - ::eco:: Mejoras en el suelo
+    - ::eco:: Un nuevo sistema solar que dure otros 20 años
 
     Dependiendo de las donaciones nos encantaría añadir:
 
-    - :leaf: Sustitución del aislamiento natural degradado.
-    - :leaf: Sustitución de cristalería bioclimática agrietada de ventanas y dinteles dañados.
-    - :leaf: Revoco exterior
-    - :leaf: Renovación de electrodomésticos...
+    - ::eco:: Sustitución del aislamiento natural degradado.
+    - ::eco:: Sustitución de cristalería bioclimática agrietada de ventanas y dinteles dañados.
+    - ::eco:: Revoco exterior
+    - ::eco:: Renovación de electrodomésticos...
 
     ¡Os mantendremos informados!
 
     ¡Muchas gracias!
 
-    [[:hand-holding-heart: Crowdfunding]](https://gofund.me/d4520a98)
+    [[::volunteer_activism:: Crowdfunding]](https://gofund.me/d4520a98)
   ratio: 16/9
-  view: ''
-  sort: ''
-  box:
-    view: ''
-    sort: ''

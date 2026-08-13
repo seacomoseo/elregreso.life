@@ -1,7 +1,7 @@
 ---
 slug: sabiduria-tolteca-y-cnv
 title: Sabiduría Tolteca y CNV
-image: /sabiduria-tolteca-y-cnv.png
+img: /u/sabiduria-tolteca-y-cnv.png
 date: 2026-05-29 19:00:00
 end: 2026-05-31 19:00:00
 ---
@@ -17,23 +17,21 @@ Si te parece buena idéa, foméntala con tu asistencia y, de paso, nos visitas �
 
 ## 🌲 Espacio 🌲
 
-● Un proyecto de permacultura en plena sierra, un valle rodeado por dos arroyos y de bosque, con una espaciosa casa comunitaria.
+- Un proyecto de permacultura en plena sierra, un valle rodeado por dos arroyos y de bosque, con una espaciosa casa comunitaria.
 
 ## 🏠 Alojamiento 🌿
 
-● En la casa comunitaria "Marabella" en habitación compartida.
+- En la casa comunitaria "Marabella" en habitación compartida.
 
 ## 🌮 Comida 🍝
 
-● Menú vegetariano
+- Menú vegetariano
 
 ## 🎨 Qué traer 🎺
 
-● Ropa cómoda y algo de abrigo
-
-● Sabanas, almohada y toalla.
-
-● Instrumentos musicales (opcionales)
+- Ropa cómoda y algo de abrigo
+- Sabanas, almohada y toalla.
+- Instrumentos musicales (opcionales)
 
 ## 🌍 LUGAR
 
@@ -51,14 +49,8 @@ Si te parece buena idéa, foméntala con tu asistencia y, de paso, nos visitas �
 
 ## ☎️ RESERVA
 
-
-[[:paper-plane: Contacto]](#contacto)
-
-
+[[::send:: Contacto]](#contacto)
 
 [www.elregreso.life](/)
 
-
-
 [Instagram](https://www.instagram.com/elregreso.life?igsh=MTM1anF4NjkxM21lNA==)
-
