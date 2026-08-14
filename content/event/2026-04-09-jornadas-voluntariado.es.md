@@ -1,7 +1,7 @@
 ---
 slug: jornadas-voluntariado
 title: Jornadas de Voluntariado
-img: /u/jornadas-de-voluntariado-3.png
+img: /u/eventos/2026-04-27-jornadas-de-voluntariado.webp
 date: 2026-04-27 11:39:13
 end: 2026-05-03 19:00:13
 ---

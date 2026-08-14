@@ -1,7 +1,7 @@
 ---
 slug: /
 title: Inicio
-img: /u/paisaje-4.jpg
+img: /u/fotos/paisaje-4.jpg
 draft: false
 seo:
   title: 'El Regreso: Comunidad Natural'
@@ -29,8 +29,8 @@ org:
   mail: ''
   logo: /u/base/poster-sq.svg
   imgs:
-  - /u/fondo.jpg
-  - /u/la-comunidad.jpg
+  - /u/fotos/fondo.jpg
+  - /u/fotos/la-comunidad.jpg
   as:
   - https://www.facebook.com/ComunidadElRegreso/
   phones:

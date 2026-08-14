@@ -1,8 +1,7 @@
 ---
 slug: taoismo-y-soberania
 title: Taoismo y Soberanía
-sum: ''
-img: /u/taoismo-y-soberania.png
+img: /u/eventos/2026-03-27-taoismo-y-soberania.webp
 date: 2026-03-27 19:00:36
 end: 2026-03-29 19:00:36
 ---

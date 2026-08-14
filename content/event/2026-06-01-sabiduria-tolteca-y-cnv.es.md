@@ -1,7 +1,7 @@
 ---
 slug: etica-convivencial-practica
 title: Ética Convivencial Práctica
-img: /u/etica-convivencial-practica.png
+img: /u/eventos/2026-07-24-etica-convivencial-practica.webp
 date: 2026-07-24 19:00:00
 end: 2026-07-26 19:00:00
 ---

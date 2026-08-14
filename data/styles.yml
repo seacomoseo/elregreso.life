@@ -6,7 +6,7 @@ icons:
   style: rounded
   def:
     def:
-    play: youtube-iframe
+    play: svg:youtube-iframe
   up:
   down:
   left:

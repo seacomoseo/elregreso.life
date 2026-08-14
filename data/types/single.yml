@@ -11,7 +11,7 @@ tpl:
   section:
   - size: lg
     color: dark
-    bi: /u/fondo.jpg
+    bi: /u/fotos/fondo.jpg
     alpha: 0.7
     scroll: fix
     div: mountain

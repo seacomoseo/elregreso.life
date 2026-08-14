@@ -1,7 +1,7 @@
 ---
 slug: convivencia-consciente
 title: Convivencia Consciente
-img: /u/convivencia-consciente-ii.png
+img: /u/eventos/2025-10-24-convivencia-consciente.webp
 date: 2025-10-24 19:00:14
 end: 2025-10-26 17:00:14
 ---

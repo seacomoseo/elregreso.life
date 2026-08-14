@@ -17,22 +17,22 @@ boxes:
   - title: El hábitat
     sub: Conviviendo en armonía con la naturaleza
     url: '#el-habitat'
-    img: /u/paisaje-4.jpg
+    img: /u/fotos/paisaje-4.jpg
     md: Un entorno natural en Moratalla, Murcia, con bosques de pinos y encinas, diversidad de flora y fauna, ideal para una vida sostenible y en armonía con la naturaleza.
   - title: Los principios
     sub: 'Permacultura: Nuestro camino hacia la sostenibilidad'
     url: '#los-principios'
-    img: /u/espiral.jpg
+    img: /u/fotos/espiral.jpg
     md: Agricultura orgánica, bioconstrucción, economía local, tecnologías alternativas, energías renovables, agua consciente, gestión de residuos...
   - title: El Regreso
     sub: Comunidad Natural <br> El Regreso
     url: '#el-regreso'
-    img: /u/circulo.jpg
+    img: /u/fotos/circulo.jpg
     md: Un proyecto dentro de la asociación Volver a la Tierra, compartiendo objetivos y principios para promover la vida sostenible en la comunidad rural.
   - title: Marabella
     sub: Una casa con encanto y alma, base de la comunidad
     url: '#casa-marabella'
-    img: /u/casa.jpg
+    img: /u/fotos/casa.jpg
     md: Sede de las reuniones, equipada para actividades compartidas, autosuficiente y sostenible, impulsada por una economía consciente y solidaria.
 modal:
   size: xs
@@ -45,7 +45,7 @@ modal:
 modals:
 - title: El Hábitat
   sub: Conviviendo en armonía con la naturaleza
-  img: /u/paisaje-4.jpg
+  img: /u/fotos/paisaje-4.jpg
   md: |
     La finca donde se desarrolla el proyecto se encuentra en el término municipal de Moratalla (Murcia), en un valle a unos 1000 metros de altitud situado entre dos arroyos que llevan agua todo el año (formándose pozas donde bañarse a lo largo de éstos).
 
@@ -64,7 +64,7 @@ modals:
     Es un lugar perfecto al que regresar para llevar una vida de calidad, una vida que le de un respiro al planeta.
 - title: Los Principios
   sub: 'Permacultura: Nuestro camino hacia la sostenibilidad'
-  img: /u/espiral.jpg
+  img: /u/fotos/espiral.jpg
   md: |
     A grandes rasgos se podría decir que la intención es ir en dirección a la permacultura.
 
@@ -82,7 +82,7 @@ modals:
     1. Las dinámicas de crecimiento personal y grupal.
 - title: El Regreso
   sub: Comunidad Natural El Regreso
-  img: /u/circulo.jpg
+  img: /u/fotos/circulo.jpg
   md: |+
     Para no extendernos mucho, pues es una larga historia, decir que la Comunidad Natural El Regreso nace de la C.RU.PER (Comunidad rural perdurable) El Regreso la cual forma parte de la asociación Volver a la Tierra, con la que comparte fines.
 
@@ -93,7 +93,7 @@ modals:
     full: true
 - title: Casa Marabella
   sub: Una casa con encanto y alma, base de la comunidad
-  img: /u/casa.jpg
+  img: /u/fotos/casa.jpg
   md: |
     Marabella es el nombre que le pusieron a la casa los promotores, y como bien sugiere este, es una maravilla, no solo por el encanto que tiene sino por el alma que le dieron en su construcción.
 

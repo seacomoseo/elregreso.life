@@ -1,7 +1,7 @@
 ---
 slug: sabiduria-tolteca-y-cnv
 title: Sabiduría Tolteca y CNV
-img: /u/sabiduria-tolteca-y-cnv.png
+img: /u/eventos/2026-05-29-sabiduria-tolteca-y-cnv.webp
 date: 2026-05-29 19:00:00
 end: 2026-05-31 19:00:00
 ---

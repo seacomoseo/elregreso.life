@@ -5,7 +5,7 @@ boxes:
   box:
     cols: 2
   boxes:
-  - bi: /u/voluntariado-2.jpg
+  - bi: /u/fotos/voluntariado-2.jpg
     scroll: soft
   - md: |
       Esta comunidad ha nacido desde una visión común de crecimiento interior y con un fuerte deseo de regresar a la vida rural para generar un entorno sostenible y saludable.
